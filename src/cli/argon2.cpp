@@ -10,7 +10,7 @@
    #include <botan/argon2fmt.h>
 #endif
 
-namespace Botan_CLI {
+namespace Botan_CLI1 {
 
 #if defined(BOTAN_HAS_ARGON2_FMT)
 
